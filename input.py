@@ -15,3 +15,4 @@ class distance:
 d1=distance(3,10)
 d2=distance(1,1)
 print(d1+d2)
+print ("hi")
